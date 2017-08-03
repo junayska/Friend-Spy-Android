@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FriendSpy</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_friends">FriendsActivity</string>
+    <string name="title_activity_friend">FriendActivity</string>
+
+    <string name="title_activity_maps">Friend Spy</string>
+    <string name="sign_out">Sign out</string>
+    <string name="to_map">Map</string>
+    <string name="friends_menu">Friends</string>
+    <string name="welcome">Welcome&#160;</string>
+    <string name="is_near">&#160;is near!</string>
+</resources>
+
